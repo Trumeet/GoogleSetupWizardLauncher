@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">设置向导启动器</string>
+    <string name="action_info">更多信息</string>
+    <string name="text_main">启动Google设置向导</string>
+    <string name="title_alert">警告</string>
+    <string name="error_not_install">没有找到设置向导软件包。请确定你正确刷入了GApps包，推荐前往OpenGapps网站进行下载</string>
+    <string name="alert">运行向导后将无法关闭，且会清除您的Wlan设置，请务必确保设置向导能够连接到Google服务器</string>
+    <string name="text_start">正在准备启动，这最多需要一分钟的时间</string>
+    <string name="text_info">这个应用完全开源，我通过两篇文章知道了怎么启动设置向导并修复其FC的问题，有关信息以及源代码请进入下面的链接</string>
+    <string name="action_web">浏览器</string>
+</resources>
